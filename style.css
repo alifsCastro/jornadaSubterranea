@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    top: 0;
+    width: 100%;
+    background-color:rgb(128, 0, 128);
+    position: fixed;
+    text-align: center
+    
+    
+    
+    
+}
+a {
+    font-size: 20px;
+    color: white;
+    font-family: 'fira code'; sans serif;
+    font-weight: 500;
+    text-decoration:none ;
+    margin-right: 40px;
+}
+body{
+    padding-top: 140px;
+    margin: 0%;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 100px;
+    
+}
+#button{
+    display: inline-block;
+    background-color: rgb(74, 71, 71);
+    height: 60px;
+    line-height: 60px;
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow: 7px 7px 3px black;
+
+}
+nav{
+    
+    text-align: right;
+    margin-right: 60px;
+    
+}
+div{
+    display: inline-block;
+    width: 100%;
+}
+h1{ 
+    margin: 100px 0px;
+    color: white;
+    padding-left: 20px;
+    line-height: 60px;
+    padding-right: 20px;
+    height: 60px;
+    text-align: center;
+    display:inline-block;
+    background-color:rgb(97, 97, 97)
+    
+    
+}
+h2{ 
+    color: azure;
+    
+
+    
+}
+#formatar{
+    text-align: center;
+}
+#fomatar2{
+    background-color: FFF;
+}
+#sobre{
+    margin-top: 30px;
+    margin-button: 30px;
+}
+#Inicio{
+    margin-top: 0%;
+    margin-button: 30px;
+}
+#Plataformas{
+    margin-top: 30px;
+    margin-button: 30px;
+}
+.circle {
+     background-color: black;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    overflow:hidden ;
+}
+.circle img{
+    bottom: 0%;
+    width: 100%;
+}
+.gg {
+    text-align: left;
+    background-color: white
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    
+}
+main{
+    background-color: rgb(19, 19, 19);
+    margin-top: 50px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+button{
+    
+}
